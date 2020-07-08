@@ -1,5 +1,4 @@
 import cv2
-
 ##import and read an image
 # img = cv2.imread("Resources/test1.jpg")
 # cv2.imshow("Output", img)
